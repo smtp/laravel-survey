@@ -1,5 +1,5 @@
 {
-  "name": "smtp/laravel-survey",
+  "name": "cycad-za/laravel-survey",
   "description": "Create surveys inside your Laravel app",
   "keywords": [
     "laravel",
@@ -9,8 +9,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Matt Daneshvar",
-      "email": "matt.daneshvar@gmail.com"
+      "name": "Carl Ngwenya",
+      "email": "carl@ngwenya.me"
     }
   ],
   "require": {
